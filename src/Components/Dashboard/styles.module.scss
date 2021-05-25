@@ -1,0 +1,69 @@
+.Container{
+       background-color: var(--background-grey);
+
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    
+    .Titulo{
+        
+        padding: 20px;
+        margin-right: auto ;
+              
+             
+
+        h2{
+            border-left: 5px var(--secundary) solid;
+            padding-left: 5px;
+            font-weight: 600;
+            font-size: 17px;
+            color:var(--primary);
+        }
+
+    }
+
+    .Cards{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        /* margin:10px;     */
+        height: 150px;
+
+        .Card{
+            margin: 7px;
+            box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.1) ;
+
+           
+            p{
+                font-size: 20px;
+                color:var(--secundary);
+                font-weight: 900;
+            }
+       
+        }
+   }
+
+   .Loading{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+
+       h2{
+        font-weight: 900;
+        color:var(--primary);
+       }      
+
+       svg{
+           font-size: 30px;
+       }
+       
+   }
+
+
+       
+}
+
+
+  

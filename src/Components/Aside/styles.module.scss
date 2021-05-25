@@ -1,0 +1,57 @@
+.Container{
+    background-color: #ffff;
+    min-height: 100%;
+    width: 200px;
+
+  
+    
+
+    .Logo {
+        height: 40px;
+        margin-bottom: 50px;;
+        
+      }
+}
+
+
+.MenuItem{
+    
+    color: var(--primary);
+    font-size: 1rem;
+
+    svg{
+        font-size: 20px;
+        color:var(--secundary);      
+    }
+    
+    &:hover{
+        background-color:var(--background-grey);
+        border-left: 5px solid var(--secundary);
+    }
+}
+    
+
+
+.MenuItemSup{
+    background-color: var(--secundary);
+    color: var(--white);
+    font-size: 1rem;
+
+    position:relative;
+    top:960px;
+
+    &:hover{
+        background-color: var(--background-grey);
+        border-left: 5px solid var(--secundary);
+    }   
+
+    span{
+        margin: 5px 0px 19px 10px;
+        font-size: 15px;        
+    }
+
+    svg{
+        font-size: 20px;
+        
+    }
+}

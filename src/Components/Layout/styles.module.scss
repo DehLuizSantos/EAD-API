@@ -1,0 +1,69 @@
+.Header{
+  background-color: var(--white)!important;
+  height: 75px !important;
+
+  @media (max-width: 1080px){
+        
+  }
+  
+  @media (max-width: 720px){
+     
+  }
+  @media (max-width: 560px){
+      
+  }
+      
+}
+
+.LayoutRight{
+  background-color: var(--white)!important;
+
+  @media (max-width: 1080px){
+        
+  }
+  
+  @media (max-width: 720px){
+     
+  }
+  @media (max-width: 560px){
+      
+  }
+}
+
+
+.Sider{
+  background: var(--white);
+  @media (max-width: 1080px){
+        
+  }
+  
+  @media (max-width: 720px){
+     
+  }
+  @media (min-width: 560px){
+      
+  }
+  
+}
+
+.Content{
+  background: var(--white)!important;
+ 
+  margin: 24px 16px;
+  padding: 24;              
+  width: 95%;
+  height: 130vh;
+  
+
+  @media (max-width: 1080px){
+        
+  }
+  
+  @media (max-width: 720px){
+     
+  }
+  @media (max-width: 560px){
+     
+  }
+}
+
