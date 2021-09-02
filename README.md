@@ -9,34 +9,27 @@
 
 </p>
 
-<p align="center">
-
-EAD Plataforma &amp; Dashboard React.js | Typescript| Jest | Ant-Design
-
-</p>
-
 <div align="center">
+
+<sub>EAD Plataforma &amp; Dashboard React.js | Typescript| Jest | Ant-Design</sub>
+
+</div>
+
+<p align="center">
   <sub>The EAD Plataforma project. Built with ❤︎ by
     <a href="https://github.com/DehLuizSantos">André Luiz Santos</a>     
   </sub>
-</div>
+</p>
 
 <br />
 <div align="center">
-  <img src="./src/utils/ead.png" width="670">
+  <img src="./src/utils/ead.png" width="400">
 </div>
 
 <br />
 <br />
 
 --
-
-# :pushpin: Table of Contents
-
-- [Demo Website](#eyes-demo-website)
-- [Technologies](#computer-technologies)
-- [Features](#rocket-features)
-- [How to run](#construction_worker-how-to-run)
 
 # :eyes: Demo Website
 
