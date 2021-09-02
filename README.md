@@ -9,7 +9,11 @@
 
 </p>
 
-> EAD Plataforma &amp; Dashboard React.js | Typescript| Jest | Ant-Design
+<p align="center">
+
+EAD Plataforma &amp; Dashboard React.js | Typescript| Jest | Ant-Design
+
+</p>
 
 <div align="center">
   <sub>The EAD Plataforma project. Built with ❤︎ by
